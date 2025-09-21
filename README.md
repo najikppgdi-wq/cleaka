@@ -1,2 +1,1 @@
 # cleaka
-mobile car details
